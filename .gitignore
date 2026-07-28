@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large media / archives (host externally, e.g. YouTube/Drive, and link in README)
+*.mp4
+*.mov
+*.MOV
+*.mp3
+*.m4a
+*.tar
+*.tar.part
